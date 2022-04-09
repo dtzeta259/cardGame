@@ -2,3 +2,5 @@ BloodStained: Ritual of the Night
 Castlevania: Symphony of the Night
 Castlevania: Portrait of Ruin
 Castlevania: Order of Ecclesia
+Castlevania: Dawn of Sorrow
+Bloodstained: Curse of the Moon
